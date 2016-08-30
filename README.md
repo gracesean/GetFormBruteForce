@@ -1,2 +1,2 @@
-# Scripts
-# Repositorio con los scripts que vaya realizando
+# Script to try and bruteforce a GetForm
+
